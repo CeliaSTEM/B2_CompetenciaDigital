@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508155918MUTQVM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508155918BYMNV6</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Creamos una web segura, accesible y útil para nuestra comunidad educativa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Celia Pedregosa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para el CFGM de Sistemas Microinformáticos y Redes, vinculada a los módulos de Aplicaciones Web y Seguridad Informática. El alumnado diseña una página web informativa sobre seguridad digital, protección de datos, licencias, identidad digital y accesibilidad, aplicando metodologías activas, trabajo cooperativo y evaluación formativa.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778248685616</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778240500656-mp9lj1zxl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240500656-mp9lj1zxl</odePageId>
+      <odeBlockId>block-1778240642821-zknx9hvqg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240500656-mp9lj1zxl</odePageId>
+          <odeBlockId>block-1778240642821-zknx9hvqg</odeBlockId>
+          <odeIdeviceId>idevice-1778240642818-7x5z9rxnn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje vamos a diseñar y crear una página web informativa dirigida a la comunidad educativa. El objetivo será elaborar un recurso digital claro, seguro, accesible y útil sobre identidad digital, protección de datos, licencias, seguridad en internet y uso responsable de la tecnología.</p>
+<p>Trabajaremos de forma cooperativa, utilizando herramientas digitales para buscar información, organizar contenidos, crear una web, revisar su funcionamiento y evaluar el proceso seguido.</p>
+<p><strong>Datos básicos:</strong></p>
+<p>Nivel: CFGM de Sistemas Microinformáticos y Redes.<br />Módulos: Aplicaciones Web y Seguridad Informática.<br />Temporalización: 9 sesiones.<br />Producto final: página web informativa.<br />Autoría: Celia Pedregosa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240642818-7x5z9rxnn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje vamos a diseñar y crear una página web informativa dirigida a la comunidad educativa. El objetivo será elaborar un recurso digital claro, seguro, accesible y útil sobre identidad digital, protección de datos, licencias, seguridad en internet y uso responsable de la tecnología.</p>\n<p>Trabajaremos de forma cooperativa, utilizando herramientas digitales para buscar información, organizar contenidos, crear una web, revisar su funcionamiento y evaluar el proceso seguido.</p>\n<p><strong>Datos básicos:</strong></p>\n<p>Nivel: CFGM de Sistemas Microinformáticos y Redes.<br />Módulos: Aplicaciones Web y Seguridad Informática.<br />Temporalización: 9 sesiones.<br />Producto final: página web informativa.<br />Autoría: Celia Pedregosa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>35ad30ed-9ffb-4183-931f-e3f1c02f891b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>35ad30ed-9ffb-4183-931f-e3f1c02f891b</odePageId>
+      <odeBlockId>block-1778240752735-3iv3nqooc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>35ad30ed-9ffb-4183-931f-e3f1c02f891b</odePageId>
+          <odeBlockId>block-1778240752735-3iv3nqooc</odeBlockId>
+          <odeIdeviceId>idevice-1778240752733-6snhbk1zx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Centro de interés o temática</strong><br />La creación de una página web segura, accesible y útil para la comunidad educativa.</p>
+<p><strong>Nivel al que va dirigido</strong><br />CFGM de Sistemas Microinformáticos y Redes.</p>
+<p><strong>Temporalización aproximada</strong><br />9 sesiones.</p>
+<p><strong>Materias o módulos implicados</strong><br />Aplicaciones Web y Seguridad Informática.</p>
+<p><strong>Idioma</strong><br />Castellano, incorporando vocabulario técnico en inglés relacionado con HTML, CSS y desarrollo web.</p>
+<p><strong>Descripción general</strong><br />El alumnado trabajará en equipos para crear una web informativa sobre seguridad digital, protección de datos, licencias, identidad digital y accesibilidad. La propuesta combina aprendizaje basado en proyectos, trabajo cooperativo, búsqueda crítica de información, creación de contenidos digitales y evaluación formativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240752733-6snhbk1zx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Centro de interés o temática</strong><br />La creación de una página web segura, accesible y útil para la comunidad educativa.</p>\n<p><strong>Nivel al que va dirigido</strong><br />CFGM de Sistemas Microinformáticos y Redes.</p>\n<p><strong>Temporalización aproximada</strong><br />9 sesiones.</p>\n<p><strong>Materias o módulos implicados</strong><br />Aplicaciones Web y Seguridad Informática.</p>\n<p><strong>Idioma</strong><br />Castellano, incorporando vocabulario técnico en inglés relacionado con HTML, CSS y desarrollo web.</p>\n<p><strong>Descripción general</strong><br />El alumnado trabajará en equipos para crear una web informativa sobre seguridad digital, protección de datos, licencias, identidad digital y accesibilidad. La propuesta combina aprendizaje basado en proyectos, trabajo cooperativo, búsqueda crítica de información, creación de contenidos digitales y evaluación formativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>35ad30ed-9ffb-4183-931f-e3f1c02f891b</odePageId>
+      <odeBlockId>block-1778240810424-puat1ydxn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>35ad30ed-9ffb-4183-931f-e3f1c02f891b</odePageId>
+          <odeBlockId>block-1778240810424-puat1ydxn</odeBlockId>
+          <odeIdeviceId>idevice-1778240810422-ly3pwa4hk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Al finalizar el proyecto, vuestra web podrá servir como recurso de ayuda para otros estudiantes del centro.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240810422-ly3pwa4hk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Al finalizar el proyecto, vuestra web podrá servir como recurso de ayuda para otros estudiantes del centro.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240526876-mjlrk7p6d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Reto para el alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Reto para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240526876-mjlrk7p6d</odePageId>
+      <odeBlockId>block-1778240832768-dwvgyry1w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240526876-mjlrk7p6d</odePageId>
+          <odeBlockId>block-1778240832768-dwvgyry1w</odeBlockId>
+          <odeIdeviceId>idevice-1778240832766-l91133pkz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué reto vamos a resolver?</strong></p>
+<p>La comunidad educativa necesita recursos claros y comprensibles para utilizar internet de forma segura y responsable. Por ello, cada equipo deberá crear una página web que ayude a otros estudiantes a proteger sus datos, respetar la privacidad de los demás, usar recursos con licencias adecuadas y publicar contenidos digitales de forma responsable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240832766-l91133pkz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué reto vamos a resolver?</strong></p>\n<p>La comunidad educativa necesita recursos claros y comprensibles para utilizar internet de forma segura y responsable. Por ello, cada equipo deberá crear una página web que ayude a otros estudiantes a proteger sus datos, respetar la privacidad de los demás, usar recursos con licencias adecuadas y publicar contenidos digitales de forma responsable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778240526876-mjlrk7p6d</odePageId>
+      <odeBlockId>block-1778240991780-032xtxxb7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240526876-mjlrk7p6d</odePageId>
+          <odeBlockId>block-1778240991780-032xtxxb7</odeBlockId>
+          <odeIdeviceId>idevice-1778240991778-e95exp1ea</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Cómo podemos crear una web que ayude a otros estudiantes a cuidar su identidad digital y navegar por internet de forma segura?</strong></p>
+<ol>
+<li>Elegir la temática.</li>
+<li>Buscar información fiable.</li>
+<li>Revisar licencias y protección de datos.</li>
+<li>Diseñar la estructura de la web.</li>
+<li>Crear la web.</li>
+<li>Revisar accesibilidad y seguridad.</li>
+<li>Presentar el producto final.</li>
+<li>Mejorarlo a partir del feedback recibio</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778240991778-e95exp1ea","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Cómo podemos crear una web que ayude a otros estudiantes a cuidar su identidad digital y navegar por internet de forma segura?</strong></p>\n<ol>\n<li>Elegir la temática.</li>\n<li>Buscar información fiable.</li>\n<li>Revisar licencias y protección de datos.</li>\n<li>Diseñar la estructura de la web.</li>\n<li>Crear la web.</li>\n<li>Revisar accesibilidad y seguridad.</li>\n<li>Presentar el producto final.</li>\n<li>Mejorarlo a partir del feedback recibio</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240540413-u2ho1quvu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad, protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad, protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240540413-u2ho1quvu</odePageId>
+      <odeBlockId>block-1778241056061-ncm8a9u3m</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240540413-u2ho1quvu</odePageId>
+          <odeBlockId>block-1778241056061-ncm8a9u3m</odeBlockId>
+          <odeIdeviceId>idevice-1778241056059-c15mk5av1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Antes de publicar: cuida tu identidad digital</strong></p>
+<p>Antes de crear y publicar contenidos digitales, debemos tener en cuenta algunas recomendaciones básicas sobre protección de datos, derechos digitales, privacidad, seguridad y licencias. Esta información nos ayudará a crear una web responsable y respetuosa con los derechos de todas las personas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241056059-c15mk5av1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Antes de publicar: cuida tu identidad digital</strong></p>\n<p>Antes de crear y publicar contenidos digitales, debemos tener en cuenta algunas recomendaciones básicas sobre protección de datos, derechos digitales, privacidad, seguridad y licencias. Esta información nos ayudará a crear una web responsable y respetuosa con los derechos de todas las personas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778240540413-u2ho1quvu</odePageId>
+      <odeBlockId>block-1778241081487-ddt4cwl12</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240540413-u2ho1quvu</odePageId>
+          <odeBlockId>block-1778241081487-ddt4cwl12</odeBlockId>
+          <odeIdeviceId>idevice-1778241081485-65bj0i51c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/TuIdentidadDigital_InfografíaCute.png" title="Identidad digital, protección de datos y derechos digitales" width="638" height="902" alt="Infografía con recomendaciones sobre identidad digital, protección de datos y derechos digitales." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241081485-65bj0i51c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/TuIdentidadDigital_InfografíaCute.png\" title=\"Identidad digital, protección de datos y derechos digitales\" width=\"638\" height=\"902\" alt=\"Infografía con recomendaciones sobre identidad digital, protección de datos y derechos digitales.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240549143-9ry7fsqgq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240549143-9ry7fsqgq</odePageId>
+      <odeBlockId>block-1778241187441-2n791b0yh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240549143-9ry7fsqgq</odePageId>
+          <odeBlockId>block-1778241187441-2n791b0yh</odeBlockId>
+          <odeIdeviceId>idevice-1778241187439-2nuyg5dwo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Nuestro producto final: una web segura y accesible</strong></p>
+<p>El producto final será una página web informativa creada por equipos. La web estará dirigida a otros estudiantes del centro y deberá ofrecer recomendaciones útiles sobre seguridad digital, protección de datos, identidad digital, licencias y accesibilidad.</p>
+<p><strong>La web deberá incluir:</strong></p>
+<ul>
+<li>Título claro.</li>
+<li>Menú o estructura organizada.</li>
+<li>Información fiable y bien redactada.</li>
+<li>Imágenes o recursos citados correctamente.</li>
+<li>Recomendaciones sobre seguridad digital.</li>
+<li>Ausencia de datos personales.</li>
+<li>Diseño visual claro.</li>
+<li>Criterios básicos de accesibilidad.</li>
+<li>Enlaces revisados.</li>
+<li>Presentación final ante el grupo.</li>
+</ul>
+<p><strong>Herramientas recomendadas:</strong></p>
+<ul>
+<li>Visual Studio Code.</li>
+<li>HTML y CSS.</li>
+<li>Navegador web.</li>
+<li>Google Drive.</li>
+<li>Google Sites como alternativa guiada.</li>
+<li>Padlet.</li>
+<li>Miro.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241187439-2nuyg5dwo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Nuestro producto final: una web segura y accesible</strong></p>\n<p>El producto final será una página web informativa creada por equipos. La web estará dirigida a otros estudiantes del centro y deberá ofrecer recomendaciones útiles sobre seguridad digital, protección de datos, identidad digital, licencias y accesibilidad.</p>\n<p><strong>La web deberá incluir:</strong></p>\n<ul>\n<li>Título claro.</li>\n<li>Menú o estructura organizada.</li>\n<li>Información fiable y bien redactada.</li>\n<li>Imágenes o recursos citados correctamente.</li>\n<li>Recomendaciones sobre seguridad digital.</li>\n<li>Ausencia de datos personales.</li>\n<li>Diseño visual claro.</li>\n<li>Criterios básicos de accesibilidad.</li>\n<li>Enlaces revisados.</li>\n<li>Presentación final ante el grupo.</li>\n</ul>\n<p><strong>Herramientas recomendadas:</strong></p>\n<ul>\n<li>Visual Studio Code.</li>\n<li>HTML y CSS.</li>\n<li>Navegador web.</li>\n<li>Google Drive.</li>\n<li>Google Sites como alternativa guiada.</li>\n<li>Padlet.</li>\n<li>Miro.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240556800-ynqmhuwkt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para trabajar</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para trabajar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240563836-8354ymxvp</odePageId>
+  <odeParentPageId>page-1778240556800-ynqmhuwkt</odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240563836-8354ymxvp</odePageId>
+      <odeBlockId>block-1778241571474-y5rfdh2de</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240563836-8354ymxvp</odePageId>
+          <odeBlockId>block-1778241571474-y5rfdh2de</odeBlockId>
+          <odeIdeviceId>idevice-1778241571471-fd7orzyn9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Recursos para crear una web segura, accesible y útil</strong></p>
+<p>En este tablero encontrarás recursos para desarrollar el proyecto: tutoriales de HTML/CSS, herramientas de creación web, bancos de imágenes libres, recursos sobre licencias, seguridad digital, protección de datos y accesibilidad.</p>
+<p></p>
+<p><a href="https://padlet.com/cpedmor911/recursos-para-crear-una-web-segura-accesible-y-util-wxihms0629u05jla" target="_blank" rel="noopener"><strong title="">Acceder al Padlet de recursos para el alumnado</strong></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241571471-fd7orzyn9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos para crear una web segura, accesible y útil</strong></p>\n<p>En este tablero encontrarás recursos para desarrollar el proyecto: tutoriales de HTML/CSS, herramientas de creación web, bancos de imágenes libres, recursos sobre licencias, seguridad digital, protección de datos y accesibilidad.</p>\n<p></p>\n<p><a href=\"https://padlet.com/cpedmor911/recursos-para-crear-una-web-segura-accesible-y-util-wxihms0629u05jla\" target=\"_blank\" rel=\"noopener\"><strong title=\"\">Acceder al Padlet de recursos para el alumnado</strong></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240573582-ks8vawjik</odePageId>
+  <odeParentPageId>page-1778240556800-ynqmhuwkt</odeParentPageId>
+  <pageName>Recursos para la práctica docente</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para la práctica docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240573582-ks8vawjik</odePageId>
+      <odeBlockId>block-1778241695353-nrc6q05hb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240573582-ks8vawjik</odePageId>
+          <odeBlockId>block-1778241695353-nrc6q05hb</odeBlockId>
+          <odeIdeviceId>idevice-1778241695351-5yjgbvpve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Mi aula digital: herramientas para organizar, crear, comunicar y evaluar</strong></p>
+<p>Este tablero recoge herramientas digitales útiles para la organización del aula, la creación de materiales, la comunicación, la evaluación, la curación de contenidos, la seguridad digital y el trabajo con licencias.</p>
+<p><a href="https://miro.com/app/board/uXjVHc0akKc=/?share_link_id=598829277310" target="_blank" rel="noopener" title="">Accede al Miro con recursos para la práctica docente</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241695351-5yjgbvpve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Mi aula digital: herramientas para organizar, crear, comunicar y evaluar</strong></p>\n<p>Este tablero recoge herramientas digitales útiles para la organización del aula, la creación de materiales, la comunicación, la evaluación, la curación de contenidos, la seguridad digital y el trabajo con licencias.</p>\n<p><a href=\"https://miro.com/app/board/uXjVHc0akKc=/?share_link_id=598829277310\" target=\"_blank\" rel=\"noopener\" title=\"\">Accede al Miro con recursos para la práctica docente</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240580929-khnquzd5q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240580929-khnquzd5q</odePageId>
+      <odeBlockId>block-1778241812827-88dt4xru0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240580929-khnquzd5q</odePageId>
+          <odeBlockId>block-1778241812827-88dt4xru0</odeBlockId>
+          <odeIdeviceId>idevice-1778241812825-sww9164bb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Organización temporal, espacial y grupal</strong></p>
+<p>El proyecto se organiza en 9 sesiones. La planificación será flexible para adaptarse al ritmo del alumnado, a las dificultades técnicas que puedan surgir y a las necesidades de cada equipo.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/LineaTemporalDelProyecto_Cute_CeliaPedregosa.png" title="Línea temporal" width="638" height="957" alt="Línea temporal visual con las sesiones, tareas, agrupamientos, espacios y herramientas del proyecto." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241812825-sww9164bb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Organización temporal, espacial y grupal</strong></p>\n<p>El proyecto se organiza en 9 sesiones. La planificación será flexible para adaptarse al ritmo del alumnado, a las dificultades técnicas que puedan surgir y a las necesidades de cada equipo.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/LineaTemporalDelProyecto_Cute_CeliaPedregosa.png\" title=\"Línea temporal\" width=\"638\" height=\"957\" alt=\"Línea temporal visual con las sesiones, tareas, agrupamientos, espacios y herramientas del proyecto.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240590282-v8aicy6jd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240590282-v8aicy6jd</odePageId>
+      <odeBlockId>block-1778241894315-bnxfj9jqs</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240590282-v8aicy6jd</odePageId>
+          <odeBlockId>block-1778241894315-bnxfj9jqs</odeBlockId>
+          <odeIdeviceId>idevice-1778241894312-6c9vm9368</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta <a href="https://docs.google.com/document/d/1EshYKiNs5Hz3gtmwfsPnSX2G9yQFGTLE6_xKR2RyNgg/edit?usp=sharing" target="_blank" title="" rel="noopener">guía didáctica</a> recoge la relación entre las tareas del proyecto, los criterios de evaluación, los agrupamientos, la temporalización y las herramientas digitales que utilizará el alumnado. Su finalidad es facilitar la aplicación de la Situación de Aprendizaje en el aula y permitir que pueda ser reutilizada o adaptada por otros docentes.</p>
+<p></p>
+<p><strong>Observaciones metodológicas:</strong></p>
+<ul>
+<li>Se aplicará aprendizaje basado en proyectos.<br /></li>
+<li>Se trabajará en equipos cooperativos.<br /></li>
+<li>Se utilizarán herramientas digitales del centro.<br /></li>
+<li>Se ofrecerán plantillas y guías de apoyo.<br /></li>
+<li>Se atenderá a la diversidad mediante distintos niveles de dificultad.<br /></li>
+<li>Se contemplará un plan alternativo ante incidencias técnicas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241894312-6c9vm9368","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta <a href=\"https://docs.google.com/document/d/1EshYKiNs5Hz3gtmwfsPnSX2G9yQFGTLE6_xKR2RyNgg/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">guía didáctica</a> recoge la relación entre las tareas del proyecto, los criterios de evaluación, los agrupamientos, la temporalización y las herramientas digitales que utilizará el alumnado. Su finalidad es facilitar la aplicación de la Situación de Aprendizaje en el aula y permitir que pueda ser reutilizada o adaptada por otros docentes.</p>\n<p></p>\n<p><strong>Observaciones metodológicas:</strong></p>\n<ul>\n<li>Se aplicará aprendizaje basado en proyectos.<br /></li>\n<li>Se trabajará en equipos cooperativos.<br /></li>\n<li>Se utilizarán herramientas digitales del centro.<br /></li>\n<li>Se ofrecerán plantillas y guías de apoyo.<br /></li>\n<li>Se atenderá a la diversidad mediante distintos niveles de dificultad.<br /></li>\n<li>Se contemplará un plan alternativo ante incidencias técnicas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240599387-4zgocdofw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240599387-4zgocdofw</odePageId>
+      <odeBlockId>block-1778247189799-7pfcffwtr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240599387-4zgocdofw</odePageId>
+          <odeBlockId>block-1778247189799-7pfcffwtr</odeBlockId>
+          <odeIdeviceId>idevice-1778247189796-z7un5r93b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Cómo vamos a evaluar?</strong></p>
+<p>La evaluación será formativa, continua y orientada a la mejora. No se valorará únicamente el producto final, sino también el proceso seguido, la búsqueda crítica de información, el uso responsable de recursos digitales, la seguridad, la accesibilidad, el trabajo en equipo y la capacidad de mejorar tras recibir feedback.</p>
+<p><strong>Instrumento 1: Rúbrica analítica</strong><br />Evalúa la web final: estructura, navegación, contenido, seguridad, licencias, accesibilidad, diseño y presentación.</p>
+<p><strong>Instrumento 2: Lista de cotejo</strong><br />Se utilizará durante la revisión técnica para comprobar enlaces, imágenes, licencias, textos alternativos, navegación, ausencia de datos personales y funcionamiento general.</p>
+<p><strong>Instrumento 3: Diana y formulario de autoevaluación</strong><br />Permitirá al alumnado reflexionar sobre su proceso de aprendizaje, autonomía, trabajo en equipo, resolución de problemas técnicos y uso responsable de la tecnología.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778247189796-z7un5r93b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Cómo vamos a evaluar?</strong></p>\n<p>La evaluación será formativa, continua y orientada a la mejora. No se valorará únicamente el producto final, sino también el proceso seguido, la búsqueda crítica de información, el uso responsable de recursos digitales, la seguridad, la accesibilidad, el trabajo en equipo y la capacidad de mejorar tras recibir feedback.</p>\n<p><strong>Instrumento 1: Rúbrica analítica</strong><br />Evalúa la web final: estructura, navegación, contenido, seguridad, licencias, accesibilidad, diseño y presentación.</p>\n<p><strong>Instrumento 2: Lista de cotejo</strong><br />Se utilizará durante la revisión técnica para comprobar enlaces, imágenes, licencias, textos alternativos, navegación, ausencia de datos personales y funcionamiento general.</p>\n<p><strong>Instrumento 3: Diana y formulario de autoevaluación</strong><br />Permitirá al alumnado reflexionar sobre su proceso de aprendizaje, autonomía, trabajo en equipo, resolución de problemas técnicos y uso responsable de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240606323-1uqla6mxz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad y DUA</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240606323-1uqla6mxz</odePageId>
+      <odeBlockId>block-1778247465703-jtz3dcemy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240606323-1uqla6mxz</odePageId>
+          <odeBlockId>block-1778247465703-jtz3dcemy</odeBlockId>
+          <odeIdeviceId>idevice-1778247465702-71undz8xx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje se diseña teniendo en cuenta los principios del Diseño Universal para el Aprendizaje. Se ofrecen diferentes formas de acceso a la información, varios niveles de dificultad y distintas opciones para crear el producto final.</p>
+<p><strong>Medidas previstas:</strong></p>
+<ul>
+<li>Uso de ejemplos visuales.<br /></li>
+<li>Plantillas iniciales de HTML/CSS.<br /></li>
+<li>Guías paso a paso.<br /></li>
+<li>Alternativa con Google Sites.<br /></li>
+<li>Trabajo cooperativo con roles.<br /></li>
+<li>Apoyo entre iguales.<br /></li>
+<li>Revisión intermedia antes de la entrega final.<br /></li>
+<li>Posibilidad de mejorar el producto tras recibir feedback.<br /></li>
+<li>Recursos organizados en Padlet.<br /></li>
+<li>Línea temporal visual para orientar el proceso.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778247465702-71undz8xx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje se diseña teniendo en cuenta los principios del Diseño Universal para el Aprendizaje. Se ofrecen diferentes formas de acceso a la información, varios niveles de dificultad y distintas opciones para crear el producto final.</p>\n<p><strong>Medidas previstas:</strong></p>\n<ul>\n<li>Uso de ejemplos visuales.<br /></li>\n<li>Plantillas iniciales de HTML/CSS.<br /></li>\n<li>Guías paso a paso.<br /></li>\n<li>Alternativa con Google Sites.<br /></li>\n<li>Trabajo cooperativo con roles.<br /></li>\n<li>Apoyo entre iguales.<br /></li>\n<li>Revisión intermedia antes de la entrega final.<br /></li>\n<li>Posibilidad de mejorar el producto tras recibir feedback.<br /></li>\n<li>Recursos organizados en Padlet.<br /></li>\n<li>Línea temporal visual para orientar el proceso.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240613718-65l84bucn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Plan ante incidencias técnicas</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan ante incidencias técnicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240613718-65l84bucn</odePageId>
+      <odeBlockId>block-1778247504591-0bci3wqai</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240613718-65l84bucn</odePageId>
+          <odeBlockId>block-1778247504591-0bci3wqai</odeBlockId>
+          <odeIdeviceId>idevice-1778247504590-69l9a13vw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué hacemos si surge un problema técnico?</strong></p>
+<p>Durante el proyecto pueden aparecer dificultades técnicas: problemas de conexión, errores de código, pérdida de archivos, enlaces rotos o dificultades para utilizar alguna herramienta digital. Estas incidencias se abordarán como oportunidades para aprender a resolver problemas de forma progresiva y autónoma.</p>
+<p><strong>Protocolo de ayuda:</strong></p>
+<ul>
+<li>Intento identificar el error.</li>
+<li>Consulto la guía de errores frecuentes.<br /></li>
+<li>Pregunto a mi equipo.<br /></li>
+<li>Pregunto a otro equipo.<br /></li>
+<li>Solicito ayuda al profesorado.<br /></li>
+<li>Registro la solución para poder reutilizarla.</li>
+</ul>
+<p><strong>Plan B: </strong></p>
+<ul>
+<li>Guardar copias en Drive.<br /></li>
+<li>Trabajar offline si falla internet.<br /></li>
+<li>Usar Google Sites si el desarrollo con código resulta demasiado complejo.<br /></li>
+<li>Revisar el código por parejas.<br /></li>
+<li>Utilizar plantillas comentadas.<br /></li>
+<li>Registrar incidencias y soluciones.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778247504590-69l9a13vw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué hacemos si surge un problema técnico?</strong></p>\n<p>Durante el proyecto pueden aparecer dificultades técnicas: problemas de conexión, errores de código, pérdida de archivos, enlaces rotos o dificultades para utilizar alguna herramienta digital. Estas incidencias se abordarán como oportunidades para aprender a resolver problemas de forma progresiva y autónoma.</p>\n<p><strong>Protocolo de ayuda:</strong></p>\n<ul>\n<li>Intento identificar el error.</li>\n<li>Consulto la guía de errores frecuentes.<br /></li>\n<li>Pregunto a mi equipo.<br /></li>\n<li>Pregunto a otro equipo.<br /></li>\n<li>Solicito ayuda al profesorado.<br /></li>\n<li>Registro la solución para poder reutilizarla.</li>\n</ul>\n<p><strong>Plan B: </strong></p>\n<ul>\n<li>Guardar copias en Drive.<br /></li>\n<li>Trabajar offline si falla internet.<br /></li>\n<li>Usar Google Sites si el desarrollo con código resulta demasiado complejo.<br /></li>\n<li>Revisar el código por parejas.<br /></li>\n<li>Utilizar plantillas comentadas.<br /></li>\n<li>Registrar incidencias y soluciones.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778240627481-yjcgnpf17</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778240627481-yjcgnpf17</odePageId>
+      <odeBlockId>block-1778248220414-55wcizl8g</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778240627481-yjcgnpf17</odePageId>
+          <odeBlockId>block-1778248220414-55wcizl8g</odeBlockId>
+          <odeIdeviceId>idevice-1778248220413-nxce29j2e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong><br />Celia Pedregosa</p>
+<p><strong>Título del recurso:</strong><br />Creamos una web segura, accesible y útil para nuestra comunidad educativa</p>
+<p><strong>Descripción:</strong><br />Situación de Aprendizaje dirigida al alumnado del CFGM de Sistemas Microinformáticos y Redes, en los módulos profesionales de Aplicaciones Web y Seguridad Informática. El alumnado crea una página web informativa sobre identidad digital, protección de datos, licencias, seguridad en internet y accesibilidad.</p>
+<p><strong>Herramienta de creación:</strong><br />eXeLearning 3</p>
+<p><strong>Licencia:</strong><br />Creative Commons BY-NC-SA 4.0</p>
+<p><strong>Recursos propios incluidos:</strong></p>
+<ul>
+<li>Infografía sobre identidad digital y derechos digitales.<br /></li>
+<li>Línea temporal del proyecto.<br /></li>
+<li>Curaciones de contenidos en Padlet y Miro.<br /></li>
+<li>Guía didáctica con tareas y criterios de evaluación.<br /></li>
+<li>Instrumentos de evaluación.</li>
+</ul>
+<p><a href="Descargar%20archivo%20editable%20del%20recurso" target="_blank" rel="noopener"><strong title="">Descargar archivo editable del recurso</strong></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778248220413-nxce29j2e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong><br />Celia Pedregosa</p>\n<p><strong>Título del recurso:</strong><br />Creamos una web segura, accesible y útil para nuestra comunidad educativa</p>\n<p><strong>Descripción:</strong><br />Situación de Aprendizaje dirigida al alumnado del CFGM de Sistemas Microinformáticos y Redes, en los módulos profesionales de Aplicaciones Web y Seguridad Informática. El alumnado crea una página web informativa sobre identidad digital, protección de datos, licencias, seguridad en internet y accesibilidad.</p>\n<p><strong>Herramienta de creación:</strong><br />eXeLearning 3</p>\n<p><strong>Licencia:</strong><br />Creative Commons BY-NC-SA 4.0</p>\n<p><strong>Recursos propios incluidos:</strong></p>\n<ul>\n<li>Infografía sobre identidad digital y derechos digitales.<br /></li>\n<li>Línea temporal del proyecto.<br /></li>\n<li>Curaciones de contenidos en Padlet y Miro.<br /></li>\n<li>Guía didáctica con tareas y criterios de evaluación.<br /></li>\n<li>Instrumentos de evaluación.</li>\n</ul>\n<p><a href=\"Descargar%20archivo%20editable%20del%20recurso\" target=\"_blank\" rel=\"noopener\"><strong title=\"\">Descargar archivo editable del recurso</strong></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
